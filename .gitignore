@@ -1,0 +1,69 @@
+# Compiled executables
+
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.class
+
+# Debugging files
+
+*.dSYM/
+*.pdb
+*.ilk
+*.idb
+
+# Temporary files
+
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Log files
+
+*.log
+
+# IDE and editor settings
+
+.vscode/
+.idea/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build directories
+
+build/
+cmake-build-*/
+
+# Python cache (if used for OS projects)
+
+**pycache**/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and secrets
+
+.env
+.env.*
+!.env.example
+
+# Virtual machine files
+
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+*.qcow2
+*.iso
